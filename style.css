@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(40, 38, 38);
+    color: rgb(231, 105, 15);
+  }
+  
+  #count-down {
+    position: relative;
+    top: 3cm;
+    left: 22cm;
+    padding-top: 2cm;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    border: 4px solid whitesmoke;
+    border-radius: 50%;
+    height: 3cm;
+    width: 5cm;
+  }
+  
+  #result {
+    position: relative;
+    top: 5cm;
+    left: 19cm;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+#results {
+    position: relative;
+    top: 5cm;
+    left: 19cm;
+    font-size: xx-large;
+    font-weight: bolder;
+}
